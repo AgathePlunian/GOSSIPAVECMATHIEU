@@ -1,3 +1,14 @@
-.titre { color: blueviolet;
-
+.titre { position: absolute;
+  width: 877px;
+  height: 143px;
+  left: 580px;
+  top: 123px;
+  
+  font-family: Asul;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 97px;
+  
+  color: #3F99A6;
 }
